@@ -1,0 +1,1 @@
+{"uuid":"9ef552cd-765c-4889-a500-1e0b97929eb8","name":"Weather.POSTrequestAuth","children":["dc082926-4c9d-421b-800b-9546f75eba33"],"befores":[{"name":"referenceClass","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1641640946924,"stop":1641640946924}],"afters":[],"start":1641640944106,"stop":1641640948175}

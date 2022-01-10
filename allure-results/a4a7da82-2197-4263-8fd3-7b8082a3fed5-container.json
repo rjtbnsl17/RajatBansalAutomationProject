@@ -1,0 +1,1 @@
+{"uuid":"a4a7da82-2197-4263-8fd3-7b8082a3fed5","name":"Weather.GETBookStoreAPI","children":["945064da-3a7e-4858-8f3d-180d6cc3a1d1"],"befores":[{"name":"setReference","status":"broken","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1641640438136,"stop":1641640438136}],"afters":[],"start":1641640435203,"stop":1641640438267}

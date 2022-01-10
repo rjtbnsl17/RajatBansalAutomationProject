@@ -1,0 +1,1 @@
+{"uuid":"2d8a7695-9a80-4e38-9078-4be4641b4696","name":"Weather.RectangleObject","children":["6f03bd0c-0c26-4caa-8c77-80424d986a19"],"befores":[{"name":"ObjectInstantiate","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1641647808648,"stop":1641647808650}],"afters":[],"start":1641647808610,"stop":1641647808820}
