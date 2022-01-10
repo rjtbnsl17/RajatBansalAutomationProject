@@ -47,6 +47,7 @@ public class TESTNGAnnotation {
 	{
 		
 		System.out.println("Test");
+		System.out.println("new ");
 	}
 	
 	
