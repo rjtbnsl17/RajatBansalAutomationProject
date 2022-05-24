@@ -13,6 +13,8 @@
 			<class name="Weather.POSTrequestAuth" />
 			<class name="Weather.TESTNGAnnotation" />
 			
+			
+			
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->

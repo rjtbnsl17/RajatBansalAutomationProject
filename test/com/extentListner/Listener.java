@@ -24,7 +24,7 @@ public class Listener implements ITestListener {
 
 	public void onTestFailure(ITestResult result) {
 		test.fail(result.getThrowable());
-	test.log(Status.FAIL, "it is failed due to some code missing");
+		test.log(Status.FAIL, "it is failed due to some code missing");
 	}
 
 	public void onTestSuccess(ITestResult result) {
@@ -39,13 +39,10 @@ public class Listener implements ITestListener {
 		test.log(Status.SKIP, "skipped");
 		test.skip(result.getThrowable());
 	}
-	
+
 	@AfterTest
 	public void onFinish(ITestContext context) {
 		extentReport.flush();
 	}
-
-	
-	
 
 }

@@ -1,0 +1,12 @@
+{
+	"errorCode": "GE_OA_4002",
+	"code": 410,
+	"status": {
+		"message": {
+			"message": "Failed to validate user details. Please try again.",
+			"title": "Error"
+		},
+		"result": "failure"
+	},
+	"error": "Failed to validate user details. Please try again."
+}

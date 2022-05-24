@@ -23,7 +23,10 @@ public class ExtentReport {
 	
 	//public static ExtentTest test;
 		reports = new ExtentReports();
-		htmlReporter = new ExtentHtmlReporter("./test-output/extentreports/extent.html");
+		
+		
+		//timestamp config 	
+		htmlReporter = new ExtentHtmlReporter("./test-output/extentreports/extent.html"); //relative path /cannonical path
 
 		// test = reports.createTest("GetBookStoreAPI");
 		htmlReporter.config().setDocumentTitle("My new report");

@@ -1,0 +1,1 @@
+{"uuid":"d70b1598-201b-4134-b31f-ca456ca1512b","name":"Weather.passingJson","children":["ae60fcd6-cfe3-4bd3-8bdd-f992cfa2e6fc"],"befores":[{"name":"Instantiate","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1641966846274,"stop":1641966846682}],"afters":[],"start":1641966846233,"stop":1641966850103}
